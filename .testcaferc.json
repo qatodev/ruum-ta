@@ -1,0 +1,7 @@
+{
+    "screenshots": {
+        "takeOnFails": true,
+        "path": "./screenshots",
+        "pathPattern": "${DATE}_${TIME}/${TEST}.png"
+    }
+}
